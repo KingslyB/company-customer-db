@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44c4a7a3-e9a2-4b87-8586-983057c398eb" name="Changes" comment="Initial">
-      <change afterPath="$PROJECT_DIR$/Bude - Assignment 4 Queries.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sports Host - db Create &amp; Insert.sql" afterDir="false" />
+    <list default="true" id="44c4a7a3-e9a2-4b87-8586-983057c398eb" name="Changes" comment="Added demonstration procedures for a third db that doesn't exist.">
+      <change afterPath="$PROJECT_DIR$/Car Venue - db Alter.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Car Venue - db Create &amp; Insert.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic Company - db Create &amp; Insert.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Generic Company - db Create &amp; Insert.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic Company - db Select 1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Generic Company - db Select 1.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic Company - db Select 2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Generic Company - db Select 2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NO DB/Vehicle Procedure.sql" beforeDir="false" afterPath="$PROJECT_DIR$/NO DB/Vehicle Procedure.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sports Host - db Select 1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Sports Host - db Select 1.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +32,7 @@
   "keyToString": {
     "RunOnceActivity.OpenDatabaseViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "M:/Main/DataGrip Projects",
+    "last_opened_file_path": "M:/Main/DataGrips Projects/Company Sports sql examples",
     "settings.editor.selected.configurable": "preferences.keymap"
   },
   "keyToStringList": {
@@ -51,6 +50,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="M:\Main\DataGrips Projects\Company Sports sql examples" />
+      <recent name="M:\Main\DataGrip Projects\uncertain" />
       <recent name="M:\Main\DataGrip Projects" />
     </key>
   </component>
@@ -92,6 +93,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+    <MESSAGE value="Added second DB for Sports Host" />
+    <MESSAGE value="Added demonstration procedures for a third db that doesn't exist." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added demonstration procedures for a third db that doesn't exist." />
   </component>
 </project>

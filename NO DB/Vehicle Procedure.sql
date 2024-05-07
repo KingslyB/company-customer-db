@@ -1,4 +1,4 @@
---QUERIES FOR A THIRD DATABASE THAT I CANNOT SHARE.
+--QUERIES FOR A DATABASE THAT I CANNOT SHARE.
 --May or may not build a small and completely separate project for these.
 
 --Author: Kingsly Bude
