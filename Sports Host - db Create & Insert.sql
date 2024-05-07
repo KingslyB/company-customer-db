@@ -1,5 +1,5 @@
 
-/*Droping existing database if it exists*/
+/*Dropping existing database if it exists*/
 DROP DATABASE IF EXISTS dbSportsHost;
 GO
 
