@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44c4a7a3-e9a2-4b87-8586-983057c398eb" name="Changes" comment="">
+    <list default="true" id="44c4a7a3-e9a2-4b87-8586-983057c398eb" name="Changes" comment="Initial">
+      <change afterPath="$PROJECT_DIR$/Bude - Assignment 4 Queries.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sports Host - db Create &amp; Insert.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic Company - db Create &amp; Insert.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Generic Company - db Create &amp; Insert.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic Company - db Select 1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Generic Company - db Select 1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic Company - db Select 2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Generic Company - db Select 2.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +33,7 @@
   "keyToString": {
     "RunOnceActivity.OpenDatabaseViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Kingsly",
+    "last_opened_file_path": "M:/Main/DataGrip Projects",
     "settings.editor.selected.configurable": "preferences.keymap"
   },
   "keyToStringList": {
@@ -44,6 +49,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="M:\Main\DataGrip Projects" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="users.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
       <script-file value="$PROJECT_DIR$/../Web Development/ApacheRoot/Call Website/sql/users.sql" />
@@ -79,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
   </component>
 </project>

@@ -2,7 +2,7 @@
 Author: Kingsly Bude
 */
 
-USE companyDatabase;
+USE dbGenericCompany;
 
 /*The following query selects the first name, last name, city, and company of customers that are recorded in the tblCustomer table.
 However, It will only retrieve records that do not have an entry of "Oshawa" in the CustomerCity column.*/

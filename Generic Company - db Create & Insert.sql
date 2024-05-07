@@ -3,16 +3,16 @@ Author: Kingsly Bude
 */
 
 /*Droping existing database if it exists*/
-DROP DATABASE IF EXISTS dbasDatabase;
+DROP DATABASE IF EXISTS dbGenericCompany;
 /*GO keyword will make sure the query updates the database according to the statements before it*/
 GO
 
 /*Creating a new database.*/
-CREATE DATABASE dbasDatabase;
+CREATE DATABASE dbGenericCompany;
 GO
 
 /*The rest of this script will use the following database*/
-USE dbasDatabase;
+USE dbGenericCompany;
 GO
 
 /* Creating the customer table to hold the information about a customer */

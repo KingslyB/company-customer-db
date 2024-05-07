@@ -2,7 +2,7 @@
 Author: Kingsly Bude
 */
 
-USE companyDatabase;
+USE dbGenericCompany;
 
 -- SELECTING every attribute FROM the orders table JOINED with the customer table WHERE the customer lives in Oshawa OR Whitby AND has a fufilled order
 SELECT Count(*) AS "Oshawa/Whitby"
